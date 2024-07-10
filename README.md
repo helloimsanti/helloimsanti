@@ -5,4 +5,4 @@
 > 
 > I know a couple languages: **Python**, **HTML**, **CSS**, **JavaScript**.
 > 
-> I want to learn C, C++, and SQL (idk im bored).
+> I want to learn **C**, **C++**, and **SQL** (idk im bored).
