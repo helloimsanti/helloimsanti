@@ -3,7 +3,9 @@
   <tr>
     <h1>Hello</h1>
   </tr>
+  <tr>
   I'm a computer science student at the University of Florida.
   I know a couple languages: Python, HTML, CSS, JavaScript (from most proficient to least).
   I'm planning on learning C/C++ and SQL (idk im bored).
+  </tr>
 </table>
