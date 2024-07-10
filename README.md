@@ -1,12 +1,6 @@
 ![banner](https://github.com/5anti/5anti/assets/80968125/b62535aa-996b-43ec-bfda-cca63e390ef3)
 
-<table>
-  <tr>
-    <td>
-      <h1>Hello</h1>
-      [+] I'm a computer science student at the University of Florida.<br />
-      [+] I know a couple languages: Python, HTML, CSS, JavaScript (from most proficient to least).<br />
-      [+] I'm planning on learning C/C++ and SQL (idk im bored).<br />
-    </td>
-  </tr>
-</table>
+# Hello
+> I'm currently a computer science student at the University of Florida.
+> I know a couple languages. Here's a list from most proficient to least: Python, HTML, CSS, JavaScript.
+> I want to learn C, C++, and SQL (idk im bored).
