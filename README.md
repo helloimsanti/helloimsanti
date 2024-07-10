@@ -1,4 +1,4 @@
-![angry-monkey-typing-throw-laptop-f0skawdgq9wxv98i](https://github.com/helloimsanti/helloimsanti/assets/80968125/616343b4-b8c2-430f-aead-4098cea8ad0f)
+![monday-typing-monkey](https://github.com/helloimsanti/helloimsanti/assets/80968125/7b797c0c-d560-4add-b87d-4413aa1119cc)
 
 # Welcome, traveler
 
@@ -14,3 +14,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloimsanti&layout=donut)](https://github.com/helloimsanti/github-readme-stats)
 
 told ya
+![monday-typing-monkey](https://github.com/helloimsanti/helloimsanti/assets/80968125/7b797c0c-d560-4add-b87d-4413aa1119cc)
