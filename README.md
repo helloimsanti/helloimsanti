@@ -1,4 +1,4 @@
-![monday-typing-monkey](https://github.com/helloimsanti/helloimsanti/assets/80968125/3e131a82-6395-45c1-be9f-9f395330c966)
+![angry-monkey-typing-throw-laptop-f0skawdgq9wxv98i](https://github.com/helloimsanti/helloimsanti/assets/80968125/616343b4-b8c2-430f-aead-4098cea8ad0f)
 
 # Welcome, traveler
 
