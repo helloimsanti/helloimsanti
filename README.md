@@ -2,7 +2,7 @@
 
 # Welcome, traveler
 
-> [+] I'm from Earth.
+> [+] I'm currently a student at the University of Florida.
 >
 > [+] I know a couple languages: **Python**, **HTML**, **CSS**, **JavaScript** (I pretty much use Python for everything).
 >
