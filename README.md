@@ -14,4 +14,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloimsanti&layout=donut)](https://github.com/helloimsanti/github-readme-stats)
 
 told ya
-![monday-typing-monkey](https://github.com/helloimsanti/helloimsanti/assets/80968125/7b797c0c-d560-4add-b87d-4413aa1119cc)
