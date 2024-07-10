@@ -2,5 +2,5 @@
 
 # Hello
 > I'm currently a computer science student at the University of Florida.
-> I know a couple languages. Here's a list from most proficient to least: Python, HTML, CSS, JavaScript.
+> I know a couple languages. Here's a list from most proficient to least: **Python**, **HTML**, **CSS**, **JavaScript**.
 > I want to learn C, C++, and SQL (idk im bored).
