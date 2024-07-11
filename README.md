@@ -11,6 +11,6 @@
 > [+] My tech-related interests include cybersecurity and artificial intelligence.
 
 ## Some stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloimsanti&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloimsanti&layout=compact)
 
 told ya
