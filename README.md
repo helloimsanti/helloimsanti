@@ -6,7 +6,7 @@
 >
 > [+] I know a couple languages: **Python**, **C++**, **JavaScript**, **HTML**, **CSS** (though I haven't used the last three in a while).
 >
-> [+] I want to learn **C** (shouldn't be too hard), **SQL**.
+> [+] I want to learn **C** (shouldn't be too hard) and **SQL**.
 >
 > [+] My tech-related interests include cybersecurity and artificial intelligence.
 
