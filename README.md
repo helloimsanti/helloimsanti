@@ -4,13 +4,11 @@
 
 > [+] I'm currently a computer science student at the University of Florida.
 >
-> [+] I know a couple languages: **Python**, **HTML**, **CSS**, **JavaScript** (but I pretty much use Python for everything).
+> [+] I know a couple languages: **C++**, **Python**, **JavaScript**, **HTML**, **CSS** (though I haven't used the last three in a while).
 >
-> [+] I want to learn **C**, **C++**, and **SQL** (idk im bored).
+> [+] I want to learn **C** (shouldn't be too hard), **SQL**.
 >
 > [+] My tech-related interests include cybersecurity and artificial intelligence.
 
 ## Some stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloimsanti&layout=compact)
-
-told ya
