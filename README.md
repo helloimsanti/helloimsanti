@@ -8,7 +8,7 @@
 >
 > [+] I want to learn **SQL**.
 >
-> [+] My tech-related interests include cybersecurity and artificial intelligence.
+> [+] My tech-related interests include cybersecurity, artificial intelligence, and embedded systems/IoT.
 
 ## Some stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloimsanti&layout=compact)
