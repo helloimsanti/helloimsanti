@@ -4,9 +4,9 @@
 
 > [+] I'm currently a computer science student at the University of Florida.
 >
-> [+] I know a couple languages: **Python**, **C++**, **JavaScript**, **HTML**, **CSS** (though I haven't used the last three in a while).
+> [+] I know a couple languages: **C/C++**, **Python**, **JavaScript**, **HTML**, **CSS** (though I haven't used the last three in a while).
 >
-> [+] I want to learn **C** (shouldn't be too hard) and **SQL**.
+> [+] I want to learn **SQL**.
 >
 > [+] My tech-related interests include cybersecurity and artificial intelligence.
 
