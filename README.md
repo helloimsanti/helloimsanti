@@ -6,7 +6,7 @@
 >
 > [+] I know a couple languages: **C/C++**, **Python**, **JavaScript**, **HTML**, **CSS** (though I haven't used the last three in a while).
 >
-> [+] I'm currently learning **ARM Assembly**.
+> [+] I'm currently learning **Lua** and **ARM Assembly**.
 >
 > [+] My tech-related interests include cybersecurity, artificial intelligence, and embedded systems/IoT.
 
