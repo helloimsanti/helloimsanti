@@ -4,9 +4,9 @@
 
 > [+] I'm currently a computer science student at the University of Florida.
 >
-> [+] I know a couple languages: **C/C++**, **Python**, **JavaScript**, **HTML**, **CSS** (though I haven't used the last three in a while).
+> [+] I know a couple languages: **C/C++**, **Python**, **Java**, **JavaScript**, **HTML**, **CSS**.
 >
-> [+] I'm currently learning **Lua** and **ARM Assembly**.
+> [+] I'm currently learning **Lua**.
 >
 > [+] My tech-related interests include cybersecurity, artificial intelligence, and embedded systems/IoT.
 
