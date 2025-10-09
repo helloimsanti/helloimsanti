@@ -4,7 +4,7 @@
 
 > [+] I'm currently a computer science student at the University of Florida.
 >
-> [+] I know a couple languages: **C/C++**, **Python**, **Java**, **JavaScript**, **HTML**, **CSS**.
+> [+] I know a couple languages: **C, C++**, **Python**, **Java**, **JavaScript**, **HTML**, **CSS**.
 >
 > [+] I'm currently learning **Lua**.
 >
