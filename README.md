@@ -2,6 +2,7 @@
 
 # Welcome, traveler
 > [+] I'm currently a computer science student at the University of Florida.
+> 
 > [+] My tech-related interests include cybersecurity, artificial intelligence, embedded system/IoT, and game development.
 
 ## Here's a couple languages I know
