@@ -1,9 +1,7 @@
-![monday-typing-monkey](https://github.com/helloimsanti/helloimsanti/assets/80968125/7b797c0c-d560-4add-b87d-4413aa1119cc)
-
-# Welcome, traveler
+# Welcome
 > [+] I'm currently a computer science student at the University of Florida.
 > 
-> [+] My tech-related interests include cybersecurity, artificial intelligence, embedded system/IoT, and game development.
+> [+] My tech-related interests include cybersecurity, ML/AI, embedded system/IoT, and game development.
 
 ## Here's a couple of languages I know
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
