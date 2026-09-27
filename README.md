@@ -1,7 +1,7 @@
 # Welcome
 > [+] I'm currently a computer science student at the University of Florida.
 > 
-> [+] My tech-related interests include cybersecurity, ML/AI, embedded system/IoT, and game development.
+> [+] My tech-related interests include cybersecurity, ML/AI, and game development.
 
 ## Here's a couple of languages I know
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
